@@ -1,0 +1,46 @@
+.travel-mainDiv{
+    border: 1px solid #C7C7C7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+.travel-mainDiv img {
+    width: 100%;
+}
+.travel-mainDiv hr {
+    width: 230px;
+}
+.travel-mainDiv h5, .travel-mainDiv p{
+    margin-left: 20px
+}
+.movie-text{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie-head{
+    float: right;
+}
+.environment-li{
+    margin-top: 13px;
+}
+.environment-li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+.environment-li img{
+    border-radius: 25px;
+}
+.environment-li p{
+    margin-top: 10px;
+}
+#contact iframe{
+    width: 100%;
+}
+.contact_1 h3{
+    display: inline;
+}
+.contact_1 a{
+    text-shadow: none; 
+}
