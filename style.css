@@ -44,3 +44,8 @@
 .contact_1 a{
     text-shadow: none; 
 }
+#mynavbar{
+    position: sticky;
+    top: 0px;
+    z-index: 999999999999;
+}
