@@ -44,8 +44,29 @@
 .contact_1 a{
     text-shadow: none; 
 }
-#mynavbar{
+.my_navbar{
     position: sticky;
     top: 0px;
     z-index: 999999999999;
+}
+.header-entrepreneur{
+    line-height: 2;
+}
+.book{
+    cursor: pointer;
+}
+.book hr{
+    margin-bottom: 10px;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.img_modal{
+    display: inline-block
+}
+.p_modal{
+    margin-top: 10px;
+}
+.modal-body{
+    text-align: center;
 }
